@@ -6,23 +6,23 @@ body{
     
     }
 .container3{
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 500px;
     background-color: white;
     color: black;
-    margin-left: 450px;
-    margin-top: 100px;
+    margin-left: 400px;
+    margin-top: 50px;
     border-radius: 10px;
-    text-align: left;
+    
     
     
 }
 #email{
-    width: 300px;
+    width: 400px;
     height: 40px;
 }
 #password{
-    width: 300px;
+    width: 400px;
     height: 40px;
 }
 
@@ -32,14 +32,14 @@ body{
     
 }
 .container3 h1{
-    margin-left: 100px;
+    margin-left: 150px;
     
 }
 #Sign{
     background-color:rgb(47, 90, 163);
     
     border-radius: 1px;
-    width: 300px;
+    width: 400px;
 }
 .ab,.bc{
     margin-left: 50px;
